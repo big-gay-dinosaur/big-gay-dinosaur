@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salutations
 I am an intermediate (I guess?) level programmer of things.  
 Any/all pronouns. :)  
 Have been coding for 5 years.  
