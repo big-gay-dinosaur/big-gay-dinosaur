@@ -48,7 +48,7 @@ Those not listed:
 # A fun fact?   
 Lobsters are biologically immortal as long as they don't fail a shed (apparently). 
 
-Oh, you mean about me? 
+# Oh, you mean about me? 
 Well, I'm a roughly top 15-20% competitive modern Tetris player, I think that counts. 
 
 
