@@ -5,6 +5,22 @@ Have been coding for 5 years.
 
 # I am comfortable with (in no particular order):  
 [![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode)](https://skillicons.dev)  
+
+If unobvious, these are: 
+- C#
+- Python
+- Photoshop
+- Gamemaker Studio
+- .NET
+- CSS
+- HTML
+- Git
+- GitHub
+- Notion
+- Regex
+- Microsoft Visual Studio
+- Microsoft Visual Studio Code
+
 Those not listed:  
 - Solidworks
 - Monocle Engine
@@ -13,6 +29,14 @@ I specialize in C#, and frontend, mainly.
   
 # I want to learn or get more comfortable with (in no particular order):   
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,cmake,c)](https://skillicons.dev)  
+
+If unobvious, these are: 
+- Rust
+- C++
+- Javascript
+- Cmake
+- C
+
 Those not listed:  
 - Rendering engines (in particular Vulkan and/or OpenGL)
 - Linux
@@ -21,7 +45,7 @@ Those not listed:
 # Currently I use (in no particular order):   
 [![My Skills](https://skillicons.dev/icons?i=discord,notion,visualstudio,vscode,windows,github,gmail)](https://skillicons.dev)  
   
-A fun fact?   
+# A fun fact?   
 Lobsters are biologically immortal as long as they don't fail a shed (apparently). 
 
 Oh, you mean about me? 
