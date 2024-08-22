@@ -4,7 +4,7 @@ Any/all pronouns. :)
 Have been coding for 5 years.  
 
 # I am comfortable with and/or currently use (in no particular order):  
-[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode,linux,mint)](https://skillicons.dev)  
+[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode,linux,mint,emacs)](https://skillicons.dev)  
 
 If unobvious, these are: 
 - C#
@@ -20,6 +20,9 @@ If unobvious, these are:
 - Regex
 - Microsoft Visual Studio
 - Microsoft Visual Studio Code
+- Linux
+- Linux Mint
+- Emacs
 
 Those not listed:  
 - Solidworks
