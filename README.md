@@ -3,8 +3,8 @@ I am an intermediate (I guess?) level programmer of things.
 Any/all pronouns. :)  
 Have been coding for 5 years.  
 
-# I am comfortable with (in no particular order):  
-[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode)](https://skillicons.dev)  
+# I am comfortable with and/or currently use (in no particular order):  
+[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode,linux,mint)](https://skillicons.dev)  
 
 If unobvious, these are: 
 - C#
