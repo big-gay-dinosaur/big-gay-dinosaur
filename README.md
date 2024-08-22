@@ -42,7 +42,6 @@ If unobvious, these are:
 
 Those not listed:  
 - Rendering engines (in particular Vulkan and/or OpenGL)
-- Linux
 - Proprietary languages/file formats/specifications
   
 # Currently I use (in no particular order):   
