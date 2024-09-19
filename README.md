@@ -10,6 +10,7 @@ Those not listed:
 - Solidworks
 - MonoDevelop
 I specialize in C#, and frontend, mainly.
+
 Additionally, I am allergic to Vim, jetbrains, apple products, roblox, the unity engine, microsoft windows, and cats. 
 # I want to learn or get more comfortable with (in no particular order):   
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,cmake,c)](https://skillicons.dev)  
