@@ -4,30 +4,11 @@ Any/all pronouns. :)
 Have been coding for 5 years.  
 
 # I am comfortable with and/or currently use (in no particular order):  
-[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,notion,regex,visualstudio,vscode,linux,mint,emacs)](https://skillicons.dev)  
-
-If unobvious, these are: 
-- C#
-- Python
-- Photoshop
-- Gamemaker Studio
-- .NET
-- CSS
-- HTML
-- Git
-- GitHub
-- Notion
-- Regex
-- Microsoft Visual Studio
-- Microsoft Visual Studio Code
-- Linux
-- Linux Mint
-- Emacs
+[![UwU OwO](https://skillicons.dev/icons?i=cs,py,ps,gamemakerstudio,dotnet,css,html,git,github,bitbucket,notion,regex,visualstudio,vscode,linux,arch,emacs)](https://skillicons.dev)  
 
 Those not listed:  
 - Solidworks
-- Monocle Engine
-- FNA/XNA Frameworks
+- MonoDevelop
 I specialize in C#, and frontend, mainly.   
   
 # I want to learn or get more comfortable with (in no particular order):   
@@ -38,7 +19,6 @@ If unobvious, these are:
 - C++
 - Javascript
 - Cmake
-- C
 
 Those not listed:  
 - Rendering engines (in particular Vulkan and/or OpenGL)
@@ -51,20 +31,4 @@ Those not listed:
 Lobsters are biologically immortal as long as they don't fail a shed (apparently). 
 
 # Oh, you mean about me? 
-Well, I'm a roughly top 15-20% competitive modern Tetris player, I think that counts. 
-
-
-<!--
-**big-gay-dinosaur/big-gay-dinosaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Well, I'm a roughly top 20% competitive modern Tetris player, I think that counts. 
