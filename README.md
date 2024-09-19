@@ -13,13 +13,7 @@ I specialize in C#, and frontend, mainly.
 
 Additionally, I am allergic to Vim, jetbrains, apple products, roblox, the unity engine, microsoft windows, and cats. 
 # I want to learn or get more comfortable with (in no particular order):   
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,cmake,c)](https://skillicons.dev)  
-
-If unobvious, these are: 
-- Rust
-- C++
-- Javascript
-- Cmake
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,js,cmake)](https://skillicons.dev)  
 
 Those not listed:  
 - Rendering engines (in particular Vulkan and/or OpenGL)
